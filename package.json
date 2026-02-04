@@ -1,0 +1,36 @@
+{
+  "name": "transcribe-for-usdc",
+  "version": "1.0.0",
+  "description": "AI-powered transcription service with USDC micropayments - USDC OpenClaw Hackathon 2026",
+  "main": "transcribe.js",
+  "bin": {
+    "transcribe": "./transcribe.js"
+  },
+  "scripts": {
+    "start": "node transcribe.js",
+    "quote": "node transcribe.js quote",
+    "pricing": "node transcribe.js pricing"
+  },
+  "keywords": [
+    "transcription",
+    "usdc",
+    "solana",
+    "openclaw",
+    "deepgram",
+    "ai",
+    "agentic-commerce"
+  ],
+  "author": "MoxieVoid",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.87.0",
+    "@solana/spl-token": "^0.3.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moxievoid/transcribe-for-usdc"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
