@@ -41,7 +41,7 @@ Skill: 💵 Processing payment...
 
 ## Code
 
-https://gitpad.exe.xyz/moxievoid/transcribe-for-usdc
+https://gitpad.exe.xyz/transcribe-for-usdc.git
 
 ## Why It Matters
 
